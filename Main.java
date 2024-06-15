@@ -8,6 +8,8 @@ public static void main(String[] args) {
     System.out.println("Helloooooooo!");
     System.out.println("Helloooooooo!");
     System.out.println("added one more file");
+    Student student=new Student();
+    student.sayHello();
 
 }
 }
